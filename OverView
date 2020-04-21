@@ -1,0 +1,31 @@
+Features of Java:
+1) Platform Independent- because of the byte code functionality java is platform independent
+2) Platform/Architectural Neutral- Memory allocation of variables in java is completely independent from the system's architecture and it will always allocate a constant amounht of memory on all the architecture.
+3) Simple and Secure-Java is simple language for an experienced programmer because it follows the same heirarchy of C and Cpp.
+	
+	Reasons for security	
+		-it does not support pointer
+		-supports byte code
+		-encryption standards
+		-strictly typechecked
+			int a=10.5; invalid in java(because of type mismatch) but valid in c,cpp
+			int a=(int)10.5; valid in java
+			
+			
+Garbage Collector:
+Collects garbage value and helps it to free. It is a thread that will execute after the completion of any program and it will free up all the memory used by the program.
+
+
+Exception Handling Mechanism:
+A runtime error is called an exception and a mechanism that can handle exception is called exception handling mechanism.
+
+
+Multi-threaded Language:
+Thread is a light weight process(part of process) and capability of a system to execute multiple threads simultaneously is called as multi-threading.
+
+
+Process:
+
+
+						
+
