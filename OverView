@@ -1,7 +1,7 @@
 Features of Java:
 1) Platform Independent- because of the byte code functionality java is platform independent
-2) Platform/Architectural Neutral- Memory allocation of variables in java is completely independent from the system's architecture and it will always allocate a constant amounht of memory on all the architecture.
-3) Simple and Secure-Java is simple language for an experienced programmer because it follows the same heirarchy of C and Cpp.
+2) Platform/Architectural Neutral- Memory allocation of variables in java is completely independent from the system's architecture and it will always allocate a constant amount of memory on all the architecture.
+3) Simple and Secure-Java is simple language for an experienced programmer because it follows the same hierarchy of C and Cpp.
 4) Robust	
 	Reasons for security	
 		-it does not support pointer
@@ -33,14 +33,14 @@ Small piece of process is called as thread.
 2) Object-It is a runtime(real time)entity, it is also known as instance of the class and it has the authority to access any content of the class.
 3) Abstraction/Encapsulation-Showing only essential features without showing any background detail is known as data abstraction.
 							-Wrapping up of data in a single unit is called data encapsulation.
-4) Inheritance-It is a property by which a class can aquire properties of another class.
+4) Inheritance-It is a property by which a class can acquire properties of another class.
 5) Polymorphism-Single name,multiple functionality.
 6) Dynamic Binding-Run time memory allocation.
 7) Message Passing-call by value and return by value.
 
 
 DataTypes:
-All those predefined keywords by which we can specify type of a variable or data are called datatypes. Declaration of a variable means we are going to reserve some memory spacein the system to hold a particular value.
+All those predefined keywords by which we can specify type of a variable or data are called datatypes. Declaration of a variable means we are going to reserve some memory space in the system to hold a particular value.
 
 Operators:
 
@@ -48,12 +48,12 @@ Operators:
 	++,--,a++,++a,a--,--a--
 	
 	BINARY
-		Arithemetical operators: 	+,-,*,/,%
+		Arithmetic operators: 	    +,-,*,/,%
 		Relational operators: 		<,>,<=,>=,!=,==
 		Assignment operator:		=
-		Bitwise operators:			&,|,^,<<,>>,>>>
-		Logical operators:			&&,||
-		Compound operators:			+=,-=,*=,/=,%=
+		Bitwise operators:			    &,|,^,<<,>>,>>>
+		Logical operators:			    &&,||
+		Compound operators:	    +=,-=,*=,/=,%=
 	
 	TERNARY
 		Conditional operator:		? :
